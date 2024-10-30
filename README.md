@@ -5,7 +5,7 @@
 - 📫 How to reach me mj23harrison@gmail.com or discord:the_technoman32
 
 - 😄 Pronouns: male
-- ⚡ Fun fact: I was born with 3 fingers on my right hand and i feel like an elite from halo at times.
+- ⚡ Fun fact: I was born with 3 fingers on my right hand and i feel like an elite from halo at times. Im related to Milton Hershey (founder of Hershey chocolate), General George Armstong Custer. My family owns the patent for the origanl fire hydrate system.
 <!---
 TheTechnoman32/TheTechnoman32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
