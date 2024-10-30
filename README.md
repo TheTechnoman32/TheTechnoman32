@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheTechnoman32
-- 👀 I’m interested in testing mods and looking for small errors such as text errors, graphics error, loading errors, animation errors, and voiceline errors.
+- 👀 I’m interested in testing mods and looking for small errors such as text errors, graphics error, loading errors, animation errors, and voiceline errors. Im very interested in learning more how mods works and expanding my own knowlegde into coding as i am sarting to learn about coding with games.
 - 🌱 I’m currently learning phython and how mods work in general for variety of games
 - 💞️ I’m looking to collaborate on modding and testing new builds 
 - 📫 How to reach me mj23harrison@gmail.com or discord:the_technoman32
